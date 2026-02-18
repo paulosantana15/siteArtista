@@ -41,11 +41,11 @@ export function Contact() {
               </p>
               
               <div className="space-y-4 mb-8">
-                <a href="mailto:contato@pulosantana.com" className="flex items-center gap-3 text-gray-300 hover:text-primary transition-colors">
+                <a href="mailto:paulosantanaoficial2021@gmail.com" className="flex items-center gap-3 text-gray-300 hover:text-primary transition-colors">
                   <div className="w-10 h-10 rounded-full bg-surface flex items-center justify-center border border-white/10">
                     <Mail size={20} />
                   </div>
-                  <span>contato@pulosantana.com</span>
+                  <span>paulosantanaoficial2021@gmail.com</span>
                 </a>
               </div>
 

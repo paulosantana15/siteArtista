@@ -30,7 +30,7 @@ export function Hero() {
       {/* Content */}
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl lg:text-9xl font-bold mb-6 tracking-tight text-white">
-          <span className="block mb-2">PULO</span>
+          <span className="block mb-2">PAULO</span>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">SANTANA</span>
         </h1>
         

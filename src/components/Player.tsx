@@ -2,9 +2,9 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Play, Pause, SkipBack, SkipForward, Volume2, VolumeX } from 'lucide-react';
 
 const playlist = [
-  { title: "Ecos da Alma", artist: "Pulo Santana", duration: 184 },
-  { title: "Noite Dourada", artist: "Pulo Santana", duration: 210 },
-  { title: "Ritmo Urbano", artist: "Pulo Santana", duration: 195 },
+  { title: "Ecos da Alma", artist: "Paulo Santana", duration: 184 },
+  { title: "Noite Dourada", artist: "Paulo Santana", duration: 210 },
+  { title: "Ritmo Urbano", artist: "Paulo Santana", duration: 195 },
 ];
 
 export function Player() {

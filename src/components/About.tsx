@@ -18,7 +18,7 @@ export function About() {
               <div className="absolute -inset-4 bg-gradient-to-r from-primary to-secondary rounded-xl opacity-20 group-hover:opacity-40 blur-xl transition-opacity duration-500" />
               <img 
                 src="https://coreva-normal.trae.ai/api/ide/v1/text_to_image?prompt=Portrait%20of%20a%20cool%20musician%20holding%20a%20guitar%20looking%20away%2C%20studio%20lighting%2C%20dark%20background%2C%20fashion%20photography&image_size=portrait_4_3" 
-                alt="Pulo Santana" 
+                alt="Paulo Santana" 
                 className="relative rounded-xl shadow-2xl w-full object-cover aspect-[3/4]"
               />
             </div>
@@ -28,7 +28,7 @@ export function About() {
             <Reveal delay={200}>
               <h2 className="text-4xl md:text-5xl font-bold mb-6">A Jornada</h2>
               <p className="text-gray-400 text-lg mb-8 leading-relaxed">
-                Pulo Santana não é apenas um músico; é uma força da natureza. Nascido na encruzilhada entre o ritmo e a poesia, ele traz uma sonoridade única que mistura influências clássicas com batidas modernas. Sua música é um convite para uma viagem interior, onde cada nota conta uma história e cada silêncio grita uma emoção.
+                Paulo Santana não é apenas um músico; é uma força da natureza. Nascido na encruzilhada entre o ritmo e a poesia, ele traz uma sonoridade única que mistura influências clássicas com batidas modernas. Sua música é um convite para uma viagem interior, onde cada nota conta uma história e cada silêncio grita uma emoção.
               </p>
             </Reveal>
 
